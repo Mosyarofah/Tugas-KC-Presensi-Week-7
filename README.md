@@ -12,6 +12,7 @@ Program menampilkan menu utama dengan 3 pilihan: lihat semua data, lihat ringkas
 
 
 
+
 **OUTPUT:**
 
 <img width="998" height="855" alt="OUTPUT 1" src="https://github.com/user-attachments/assets/d6d90960-6921-4f03-be80-74aa67efab10" />
