@@ -2,6 +2,7 @@
 
 
 **OUTPUT:**
+
 <img width="569" height="182" alt="MENU UTAMA" src="https://github.com/user-attachments/assets/d589af4d-c0fe-4747-a4d0-545138392150" />
 
 
@@ -12,6 +13,7 @@ Program menampilkan menu utama dengan 3 pilihan: lihat semua data, lihat ringkas
 
 
 **OUTPUT:**
+
 <img width="998" height="855" alt="OUTPUT 1" src="https://github.com/user-attachments/assets/d6d90960-6921-4f03-be80-74aa67efab10" />
 
 
@@ -21,6 +23,7 @@ Saat pengguna memilih menu 1, program menampilkan semua data mahasiswa yang berj
 
 
 **OUTPUT:**
+
 <img width="834" height="361" alt="OUTPUT 2" src="https://github.com/user-attachments/assets/d8958cb8-0a46-4664-9819-970c1ed6c150" />
 
 
@@ -30,6 +33,7 @@ Saat pengguna memilih menu 2, program menampilkan ringkasan status dari seluruh 
 
 
 **OUTPUT:**
+
 <img width="766" height="207" alt="OUTPUT 3" src="https://github.com/user-attachments/assets/3ad0bb80-9979-42a4-8ed7-b69e5c49de20" />
 
 
