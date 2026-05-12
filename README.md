@@ -7,7 +7,7 @@
 
 
 **PENJELASAN:**
-Program menampilkan menu utama dengan 3 pilihan: lihat semua data, lihat ringkasan, atau keluar. Saat pengguna memilih menu 1, ditampilkan 5 mahasiswa (Vanesa, Ninda, Gloria, Sinta, Musya). Status ditentukan dari kehadiran: jika Tinggi maka Aktif, jika Rendah maka Tidak Aktif. Keterangan disesuaikan dari tugas dan fitur tambahan (Keaktifan). Saat pengguna memilih menu 2, ditampilkan ringkasan: total 5 mahasiswa, 3 aktif, 2 tidak aktif, dan 2 disiplin. Saat pengguna memilih menu 3, program selesai. Program ini menggunakan logika IF-ELSE tanpa library machine learning.
+Program menampilkan menu utama dengan 3 pilihan: lihat semua data, lihat ringkasan, atau keluar. Saat pengguna memilih menu 1, ditampilkan 5 mahasiswa (Vanesa, Ninda, Gloria, Sinta, Musya). Status ditentukan dari kehadiran jika Tinggi maka Aktif, jika Rendah maka Tidak Aktif. Keterangan disesuaikan dari tugas dan fitur tambahan (Keaktifan). Saat pengguna memilih menu 2, ditampilkan ringkasan total 5 mahasiswa, 3 aktif, 2 tidak aktif, dan 2 disiplin. Saat pengguna memilih menu 3, program selesai. Program ini menggunakan logika IF-ELSE tanpa library machine learning.
 
 
 
