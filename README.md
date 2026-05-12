@@ -2,15 +2,8 @@
 
 
 **OUTPUT:**
-==================================================
-   PROGRAM KLASIFIKASI PRESENSI
-      DECISION TREE (IF-ELSE)
-==================================================
-1. Tampilkan Semua Data Mahasiswa
-2. Tampilkan Ringkasan Status
-3. Keluar
+<img width="569" height="182" alt="MENU UTAMA" src="https://github.com/user-attachments/assets/d589af4d-c0fe-4747-a4d0-545138392150" />
 
-Pilih menu (1/2/3): 
 
 **PENJELASAN:**
 Program menampilkan menu utama dengan 3 pilihan: lihat semua data, lihat ringkasan, atau keluar. Saat pengguna memilih menu 1, ditampilkan 5 mahasiswa (Vanesa, Ninda, Gloria, Sinta, Musya). Status ditentukan dari kehadiran: jika Tinggi maka Aktif, jika Rendah maka Tidak Aktif. Keterangan disesuaikan dari tugas dan fitur tambahan (Keaktifan). Saat pengguna memilih menu 2, ditampilkan ringkasan: total 5 mahasiswa, 3 aktif, 2 tidak aktif, dan 2 disiplin. Saat pengguna memilih menu 3, program selesai. Program ini menggunakan logika IF-ELSE tanpa library machine learning.
@@ -19,55 +12,7 @@ Program menampilkan menu utama dengan 3 pilihan: lihat semua data, lihat ringkas
 
 
 **OUTPUT:**
-Pilih menu (1/2/3): 1
-
-================================================================================
-                   DATA MAHASISWA
-================================================================================
-
---- Mahasiswa ke-1 ---
-Nama       : Vanesa
-Kehadiran  : Tinggi
-Tugas      : Lengkap
-Keaktifan  : Aktif (Fitur Tambahan)
-Status     : Aktif
-Keterangan : Mahasiswa Disiplin + Keaktifan baik
-
---- Mahasiswa ke-2 ---
-Nama       : Ninda
-Kehadiran  : Rendah
-Tugas      : Tidak Lengkap
-Keaktifan  : Kurang (Fitur Tambahan)
-Status     : Tidak Aktif
-Keterangan : Perbaiki kehadiran dan tugas
-
---- Mahasiswa ke-3 ---
-Nama       : Gloria
-Kehadiran  : Tinggi
-Tugas      : Tidak Lengkap
-Keaktifan  : Cukup (Fitur Tambahan)
-Status     : Aktif
-Keterangan : Perbaiki tugas
-
---- Mahasiswa ke-4 ---
-Nama       : Sinta
-Kehadiran  : Rendah
-Tugas      : Lengkap
-Keaktifan  : Kurang (Fitur Tambahan)
-Status     : Tidak Aktif
-Keterangan : Tingkatkan kehadiran
-
---- Mahasiswa ke-5 ---
-Nama       : Musya
-Kehadiran  : Tinggi
-Tugas      : Lengkap
-Keaktifan  : Aktif (Fitur Tambahan)
-Status     : Aktif
-Keterangan : Mahasiswa Disiplin + Keaktifan baik
-
-================================================================================
-
-Tekan Enter untuk kembali...
+<img width="998" height="855" alt="OUTPUT 1" src="https://github.com/user-attachments/assets/d6d90960-6921-4f03-be80-74aa67efab10" />
 
 
 **PENJELASAN:**
@@ -76,16 +21,7 @@ Saat pengguna memilih menu 1, program menampilkan semua data mahasiswa yang berj
 
 
 **OUTPUT:**
-Pilih menu (1/2/3): 2
-
-================================================================================
-                   RINGKASAN STATUS
-================================================================================
-Total Mahasiswa   : 5
-Mahasiswa Aktif   : 3
-Mahasiswa Tidak Aktif : 2
-Mahasiswa Disiplin    : 2
-================================================================================
+<img width="834" height="361" alt="OUTPUT 2" src="https://github.com/user-attachments/assets/d8958cb8-0a46-4664-9819-970c1ed6c150" />
 
 
 **PENJELASAN:**
@@ -94,9 +30,7 @@ Saat pengguna memilih menu 2, program menampilkan ringkasan status dari seluruh 
 
 
 **OUTPUT:**
-Pilih menu (1/2/3): 3
-
-Terima kasih! Program selesai.
+<img width="766" height="207" alt="OUTPUT 3" src="https://github.com/user-attachments/assets/3ad0bb80-9979-42a4-8ed7-b69e5c49de20" />
 
 
 **PENJELASAN:**
