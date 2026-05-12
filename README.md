@@ -1,6 +1,5 @@
 # Tugas-KC-Presensi-Week-7
 
-# kelompok-1-pemrograman-web
 
 **OUTPUT:**
 ==================================================
